@@ -1,2 +1,4 @@
 Test
 Testing git commits with terminal
+testing git commit with vs code commit message
+test again
